@@ -1,6 +1,6 @@
 # Optics-and-four-core-optical-fibers-analysis-summer-research
 
-##Summer 2020
+####Summer 2020
 
   • Conducted research in optics and four-core optical fibers analysis.
   • Assembled a simple holography demonstration and performed a COMSOL Multiphysics simulation of a Holography Retrieval (Single-bit Hologram simulation).
